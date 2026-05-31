@@ -338,6 +338,71 @@ Interpretation:
 | NTPC Green Energy | Strategic asset, but valuation stretched versus current returns | Small allocation or watchlist |
 | Amara Raja Energy & Mobility | Not pure play and licensed-tech risk | Watchlist only |
 
+## Scenario Price Forecasts
+
+These are thesis-based price ranges, not precise targets. They assume no major dilution unless specifically part of the business case, no market-wide crash, and no permanent policy reversal. Use them to think about risk-reward, not as guaranteed outcomes.
+
+Scenario definitions:
+
+- Bull case: execution is strong, policy support remains favorable, margins hold better than expected, and valuation multiples stay elevated.
+- Base case: company executes broadly as expected, margins normalize, and valuation settles into a reasonable growth range.
+- Bear case: execution disappoints, margins compress, dilution/debt rises, or policy/geopolitical risks hurt the thesis.
+
+Approximate current price anchors used:
+
+| Company | Approx Current Price | Anchor Date |
+|---|---:|---|
+| Premier Energies | Rs 1,046 | Late May 2026 |
+| Waaree Energies | Rs 3,141 | Late May 2026 |
+| Ola Electric | Rs 40.6 | Late May 2026 |
+| Ather Energy | Rs 964 | Late May 2026 |
+| ACME Solar | Rs 305 | Late May 2026 |
+| NTPC Green Energy | Rs 103 | Late May 2026 |
+
+### 1-Year Scenario Range
+
+| Company | Bear Case | Base Case | Bull Case | 1-Year Read |
+|---|---:|---:|---:|---|
+| Premier Energies | Rs 750-850 | Rs 1,150-1,350 | Rs 1,500-1,800 | ALMM and cell ramp can support upside, but margins are already expected to normalize. |
+| Waaree Energies | Rs 2,300-2,600 | Rs 3,500-4,200 | Rs 4,800-5,800 | FY27 EBITDA guidance and US capacity are key; FCF weakness can cap rerating. |
+| Ola Electric | Rs 20-28 | Rs 50-65 | Rs 80-110 | Biggest short-term swing factor is volume recovery plus proof that Q4 margin gains sustain. |
+| Ather Energy | Rs 650-800 | Rs 1,000-1,250 | Rs 1,400-1,800 | Execution is improving, but current valuation already prices in a lot of success. |
+| ACME Solar | Rs 220-260 | Rs 330-420 | Rs 500-650 | BESS/FDRE progress can rerate the stock, but debt and high EV/EBITDA limit comfort. |
+| NTPC Green Energy | Rs 80-90 | Rs 105-125 | Rs 140-170 | Strategic value is high, but valuation is stretched versus current returns. |
+
+### 3-Year Scenario Range
+
+| Company | Bear Case | Base Case | Bull Case | 3-Year Read |
+|---|---:|---:|---:|---|
+| Premier Energies | Rs 700-900 | Rs 1,700-2,200 | Rs 2,800-3,600 | Needs cell expansion, ALMM demand, and margin resilience to justify compounding. |
+| Waaree Energies | Rs 2,200-3,000 | Rs 5,500-7,500 | Rs 9,000-12,000 | Scale, US manufacturing, retail channel, and backward integration can create strong upside. |
+| Ola Electric | Rs 15-30 | Rs 90-140 | Rs 180-300 | If own cells, volume recovery, and service execution work, upside is very high; failure risk is also high. |
+| Ather Energy | Rs 500-800 | Rs 1,500-2,200 | Rs 3,000-4,500 | Cleaner execution story, but needs breakeven and sustained market share to grow into valuation. |
+| ACME Solar | Rs 200-300 | Rs 550-800 | Rs 1,000-1,400 | BESS pipeline and contracted capacity can compound if financing costs stay controlled. |
+| NTPC Green Energy | Rs 70-100 | Rs 150-210 | Rs 250-350 | Needs capacity growth to translate into better returns, not just more debt-funded assets. |
+
+### 5-Year Scenario Range
+
+| Company | Bear Case | Base Case | Bull Case | 5-Year Read |
+|---|---:|---:|---:|---|
+| Premier Energies | Rs 650-900 | Rs 2,400-3,200 | Rs 4,500-6,000 | Can be a major compounder if domestic cells, upstream integration, and margins remain strong. |
+| Waaree Energies | Rs 2,500-3,500 | Rs 7,500-10,500 | Rs 14,000-19,000 | Best long-term solar manufacturing upside if it becomes a scaled non-China global platform. |
+| Ola Electric | Rs 10-25 | Rs 150-250 | Rs 350-600 | Extreme dispersion: could become EV + cell winner, or destroy value if execution fails. |
+| Ather Energy | Rs 500-900 | Rs 2,200-3,500 | Rs 5,000-8,000 | High-quality EV compounder case requires strong market share, software/services, and breakeven. |
+| ACME Solar | Rs 250-350 | Rs 800-1,200 | Rs 1,600-2,500 | BESS/FDRE can create differentiated IPP economics if leverage remains manageable. |
+| NTPC Green Energy | Rs 80-120 | Rs 220-320 | Rs 400-600 | Works if 60 GW roadmap compounds with better capital efficiency; otherwise returns may disappoint. |
+
+## Forecast Implications
+
+| Company | Risk-Reward Interpretation |
+|---|---|
+| Waaree Energies | Best long-term asymmetric solar manufacturing case, but add only when cash conversion improves or valuation cools. |
+| Premier Energies | Best near-term quality and policy setup; upside is strong but less forgiving if margins normalize faster. |
+| Ola Electric | Highest upside-to-downside dispersion; allocation should be milestone-based, not valuation-only. |
+| Ather Energy | Better execution quality than Ola, but current valuation makes entry price very important. |
+| ACME Solar | Good BESS/FDRE compounding candidate; watch debt, refinancing, and imported BESS dependence. |
+| NTPC Green Energy | Good strategic exposure, but current valuation means position size should stay small unless returns improve. |
+
 ## 20L Target Allocation
 
 This is a valuation-gated target allocation for an aggressive 3-5 year portfolio with manageable risk. It should be built gradually, not deployed all at once.
